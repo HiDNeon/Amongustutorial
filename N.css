@@ -1,0 +1,77 @@
+*{
+    padding: 0%;
+}
+
+body{
+
+
+    margin: 0px;
+    background-image: url(fund.jpg);
+    background-size: cover;
+}
+
+nav{
+    background-image: url(amongus.gif);
+    /* position: relative; */
+    display: flex;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 90%;
+    background-position: 0%;
+    height: 30vh;
+    outline: solid #fff 3px;
+    border-radius: 10px;
+    margin: 10px auto;
+}
+
+h1{
+
+    color: #fff;
+    margin: auto;
+    font-size: 90px;
+    font-family: cursive;
+    box-shadow: 0 10px 6px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    background: #5151518d;
+    padding: 25px;
+
+}
+
+h2{
+    text-align: center;
+    color: #fff;
+    font-family: cursive;
+    background-color: #000000;
+    border: solid #ffffff 3px;
+    box-shadow:  rgb(255, 255, 255) 0 0 0 7px;
+    outline: solid #000000 5px;
+    border-radius: 8px;
+    font-size: 30px;
+    margin-left: 670px;
+    margin-right: 670px;
+    margin-bottom: 60px;
+}
+
+p{
+    color: #fff;
+    font-family: cursive;
+    background-color: #000000;
+    border: solid #ffffff 3px;
+    box-shadow:  rgb(255, 255, 255) 0 0 0 7px;
+    outline: solid #000000 5px;
+    border-radius: 8px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin: 40px ;
+    padding: 10px;
+
+}
+
+img.r{
+    border: solid #ffffff 3px;
+    box-shadow:  rgb(255, 255, 255) 0 0 0 7px;
+    outline: solid #000000 5px;
+    border-radius: 8px;
+    margin-left: 450px;
+}
+
