@@ -1,0 +1,3 @@
+O site principlal é o A.html, o qual vai redirecionar aos outros
+4 sites (5 no total).
+Foram feitos 5 CSS e um rodapé no A.html
